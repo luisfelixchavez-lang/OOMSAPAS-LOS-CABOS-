@@ -1,0 +1,29 @@
+window.botpress.init({
+  "botId": "d8f0993f-e70b-4cc7-af89-e2433d376908",
+  "configuration": {
+    "version": "v2",
+    "botName": "ASISTENTE OOMSAPAS",
+    "botAvatar": "https://files.bpcontent.cloud/2026/03/08/21/20260308215345-U6NCQJHX.png",
+    "botDescription": "Asistente virtual de OOMSAPAS Los Cabos. Estoy a tus órdenes para ayudarte con información y resolver tus dudas.",
+    "website": {},
+    "email": {},
+    "phone": {},
+    "termsOfService": {},
+    "privacyPolicy": {},
+    "color": "#337eff",
+    "variant": "solid",
+    "headerVariant": "solid",
+    "themeMode": "light",
+    "fontFamily": "AR One Sans",
+    "radius": 4,
+    "feedbackEnabled": false,
+    "footer": "[⚡ by Botpress](https://botpress.com/?from=webchat)",
+    "soundEnabled": false,
+    "proactiveMessageEnabled": false,
+    "proactiveBubbleMessage": "Hi! 👋 Need help?",
+    "proactiveBubbleTriggerType": "afterDelay",
+    "proactiveBubbleDelayTime": 10,
+    "conversationHistory": false
+  },
+  "clientId": "4bd59909-da65-4e48-bf28-f324f82598b7"
+});
